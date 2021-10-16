@@ -8,6 +8,10 @@ The program will then sort the dataset and get the time taken to do it, before a
 > Labelling Application. This was a group project in which I was the Project Manager. The app allows you to upload an image/set of images
 that you can then draw labels on. These labels can be saved and reloaded from an annotation file. The GUI was designed using Qt.
 
+-- C# --
+> Dodgeball. 3D First person dodgeball game. Two game modes, one involving throwing the ball at randomly appearing targets on the opposite wall.
+The other requiring the player to dodge the ball fired at them. Features ball physics.
+
 -- Unreal Engine --
 > Mortus VR. Zombie wave game in VR. Can utilise a variety of both one and two handed melee weapons along with a ranged option, to fight a 
 series of zombie waves. Was created using the Unreal Engine blueprint system.
@@ -15,6 +19,10 @@ series of zombie waves. Was created using the Unreal Engine blueprint system.
 -- Processing --
 > Image Editing Application. Can upload, edit and then save a copy of an image. Can change brightness/hue/saturation/contrast, and also allows 
 the user to draw shapes on the image. User can also choose to apply a filter to the image.
+
+-- Java --
+> Leap Brain Training. Brain training app demo. Features home, games, progress and settings screens, along with speed matching game. Users
+score uploaded to database. User can create account and login/logout as necessary.
 
 -- Python --
 > Python Quiz. This was a first year project done while getting to grips with Python. Implemented PyGame allowing for a GUI alongside
